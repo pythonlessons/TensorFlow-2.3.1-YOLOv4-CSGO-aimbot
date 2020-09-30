@@ -169,8 +169,6 @@ while True:
     fps = 1000 / ms
     print("FPS", fps)
     image = cv2.putText(image, "Time: {:.1f}FPS".format(fps), (0, 30), cv2.FONT_HERSHEY_COMPLEX_SMALL, 1, (0, 0, 255), 2)
-        
-    if output_path != '': out.write(image)
     
     #cv2.imshow("OpenCV/Numpy normal", image)
     #if cv2.waitKey(25) & 0xFF == ord("q"):
