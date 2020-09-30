@@ -1,0 +1,255 @@
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291933.png 1218,359,1265,398,0 1200,362,1279,580,1 102,331,123,358,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20189.jpg 797,387,989,808,3 820,391,916,495,2
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601278108.png 1014,355,1039,418,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20124.jpg 485,272,705,717,1 531,261,609,368,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20194.jpg 631,272,768,416,2 611,276,858,859,3 419,329,468,479,3 418,327,438,361,2
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/aim_map_csgo0077.jpg 685,386,711,458,3 688,386,704,403,2 682,265,694,278,2
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20193.jpg 871,417,909,484,1 875,417,892,434,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20125.jpg 911,358,1114,680,1 954,354,1044,450,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291870.png 763,345,776,362,2 760,345,778,377,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291658.png 790,279,811,327,3 774,279,795,326,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20160.jpg 1002,406,1045,452,0 976,404,1082,576,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291837.png 792,337,815,368,2 789,340,819,383,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20175.jpg 774,465,818,505,0 65,415,101,437,0 332,421,357,437,0 55,407,120,522,1 320,418,357,498,1 754,462,861,635,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20121.jpg 907,336,933,364,0 894,334,955,455,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291993.png 879,278,891,292,0 875,284,897,336,1 839,259,856,295,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291647.png 608,339,627,361,0 602,342,638,422,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291957.png 82,303,106,325,0 42,303,105,391,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291974.png 622,340,643,361,2
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291623.png 602,297,616,312,0 635,300,648,314,0 630,299,655,373,1 599,297,623,367,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291799.png 595,295,608,308,2 624,300,642,322,2 589,294,615,362,3 617,299,647,365,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20126.jpg 856,297,935,520,1 866,297,905,341,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/aim_map_csgo0079.jpg 617,405,747,672,3 640,406,695,458,2
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20162.jpg 511,327,559,400,0 490,331,596,699,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/aim_map_csgo0073.jpg 200,284,247,333,3 211,283,239,306,2 780,317,824,442,1 836,324,876,435,1 787,320,808,342,0 843,326,859,343,0 1143,338,1179,391,1 1155,339,1171,354,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20129.jpg 799,409,844,460,0 760,405,907,688,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20209.jpg 726,426,796,616,1 741,431,777,466,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20207.jpg 1017,320,1107,469,3 1036,319,1097,359,2
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20150.jpg 900,413,945,488,1 916,413,930,430,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291701.png 486,259,505,296,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291875.png 437,330,453,345,2 435,330,460,363,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20155.jpg 714,452,770,586,1 524,447,615,717,1 556,447,591,480,0 723,451,755,469,0 508,533,525,565,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20201.jpg 858,370,947,567,1 879,368,920,416,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/aim_map_csgo0085.jpg 814,310,845,350,0 786,310,864,495,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291865.png 680,105,727,158,0 629,97,738,379,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291672.png 264,216,281,240,0 260,214,286,282,1 862,243,874,262,2 860,245,876,275,3 837,248,853,276,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601278110.png 595,344,609,358,0 587,339,619,413,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291693.png 541,327,557,343,0 537,329,567,394,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291959.png 406,193,472,267,2 362,195,548,601,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20151.jpg 912,475,985,620,1 931,478,955,510,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291921.png 514,271,536,297,0 494,273,543,395,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20131.jpg 946,228,991,288,0 911,226,1024,530,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20145.jpg 646,382,714,606,1 659,386,686,423,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20181.jpg 772,455,811,531,1 829,428,855,497,1 781,453,796,471,0 833,429,844,440,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20159.jpg 734,421,827,787,1 744,422,799,487,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291991.png 557,229,615,369,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291781.png 650,141,728,252,0 919,254,987,320,0 808,249,981,526,1 550,145,748,670,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291801.png 497,220,571,284,0 468,181,649,719,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291764.png 608,349,631,373,0 588,349,642,452,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20118.jpg 811,336,840,363,0 796,332,856,509,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291699.png 145,358,161,377,2 142,358,164,399,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20123.jpg 719,524,777,609,0 682,519,874,897,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291644.png 637,338,656,356,0 634,340,666,426,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291774.png 838,294,856,313,2
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601292020.png 1115,260,1130,274,0 1114,261,1137,307,1 498,331,516,354,2 640,343,658,361,2 489,333,520,406,3 633,342,669,426,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291796.png 593,283,622,354,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20158.jpg 703,444,733,474,0 692,444,753,611,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601278113.png 568,331,595,357,0 644,329,674,363,0 554,329,606,452,1 626,330,687,471,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291938.png 641,336,675,431,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291961.png 636,247,691,308,2 606,236,783,602,3 174,298,207,369,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20136.jpg 557,529,631,628,0 513,522,707,900,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20182.jpg 561,400,587,432,0 556,400,611,568,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20156.jpg 382,267,537,379,0 576,306,627,359,0 314,264,571,900,1 567,290,660,562,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291995.png 674,358,695,381,2 652,353,703,485,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/aim_map_csgo0078.jpg 804,319,887,530,3 809,322,847,365,2
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291944.png 1126,355,1143,372,2 1115,355,1151,411,3 623,369,648,432,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/aim_map_csgo0069.jpg 945,353,988,469,3 681,368,705,437,3 684,368,695,383,2 958,352,980,379,2
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291903.png 849,279,880,309,0 835,278,892,413,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291854.png 534,341,547,358,2 530,343,552,391,3 619,360,635,394,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20177.jpg 1005,424,1023,449,0 987,421,1025,534,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291917.png 469,365,494,391,0 451,366,506,523,1 450,371,505,522,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20117.jpg 775,490,806,548,1 783,491,795,506,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20148.jpg 1206,368,1262,490,1 1225,368,1248,388,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291720.png 607,286,628,308,0 600,287,640,386,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20139.jpg 948,321,992,481,1 950,328,979,358,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20132.jpg 999,270,1104,578,1 1026,272,1080,326,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601292018.png 506,403,522,421,2 500,403,529,480,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291785.png 78,339,97,358,0 635,343,646,357,0 140,247,156,263,0 71,339,106,421,1 137,249,170,305,1 631,342,649,392,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601292013.png 856,283,870,298,2 616,229,666,294,2 845,281,876,363,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291759.png 547,301,568,323,0 539,300,574,375,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291807.png 331,216,344,228,0 325,215,351,258,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20184.jpg 594,373,608,391,0 588,372,627,480,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601292026.png 712,206,845,392,0 557,196,865,685,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291891.png 417,353,426,361,2 413,353,429,386,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20142.jpg 929,181,974,238,0 883,181,994,449,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/aim_map_csgo0075.jpg 173,307,324,597,1 262,302,316,355,0 559,346,613,440,1 578,345,597,373,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20208.jpg 682,414,726,530,1 690,412,712,435,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601278106.png 1089,291,1109,312,0 1116,292,1139,314,0 1076,289,1116,372,1 1103,292,1144,369,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291665.png 629,342,645,360,0 627,344,655,416,1 349,363,367,381,2 345,364,383,445,3 364,158,394,214,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291651.png 563,217,573,228,2 560,220,576,251,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291696.png 538,293,551,307,0 536,294,555,337,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/aim_map_csgo0072.jpg 1000,311,1036,391,1 1058,311,1096,396,1 1066,313,1084,329,0 1009,310,1025,329,0 684,296,704,323,3 690,297,698,306,2
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291859.png 876,317,911,353,0 832,316,932,552,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20166.jpg 846,464,892,551,3 862,462,883,482,2
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291783.png 679,351,689,362,0 674,357,692,398,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20141.jpg 1002,394,1078,585,1 1027,397,1051,438,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20192.jpg 675,414,704,459,1 681,413,693,423,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291972.png 554,315,594,360,2 518,312,666,551,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20110.jpg 818,422,850,463,0 804,424,877,579,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291679.png 878,300,914,342,2 839,304,927,455,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601292029.png 504,206,692,425,2 1202,320,1246,359,2 1197,324,1277,473,3 509,213,906,719,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20134.jpg 1076,338,1138,499,3 1206,343,1258,455,3 1135,350,1178,442,1 1101,339,1133,368,2 1219,343,1248,362,2 1150,350,1170,366,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291632.png 633,320,648,340,2 630,321,651,372,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291805.png 634,145,703,249,0 566,141,728,624,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291731.png 631,311,651,332,2 614,305,664,424,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20107.jpg 630,472,651,500,0 617,472,670,633,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601278117.png 61,164,95,195,0 57,169,128,317,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601292006.png 1111,337,1160,374,0 1055,254,1074,272,0 1074,337,1232,560,1 1050,255,1082,309,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20147.jpg 1013,321,1051,369,0 974,323,1079,569,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291705.png 674,219,688,238,2 712,217,726,238,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20196.jpg 1204,396,1252,439,0 754,377,785,419,0 722,372,802,578,1 1178,391,1281,666,1 920,371,948,428,3 926,371,939,382,2
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291649.png 603,344,622,363,0 596,344,636,416,1 320,187,336,204,2 314,188,344,243,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291789.png 488,271,507,291,0 490,273,524,357,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291827.png 1222,323,1279,386,0 626,350,637,363,2 618,355,638,401,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291810.png 453,169,512,234,0 434,183,565,554,1 768,164,828,242,2 121,226,203,310,2 45,229,264,576,3 710,163,892,574,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20210.jpg 763,429,839,711,1 774,429,816,482,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20120.jpg 754,442,828,568,1 786,442,810,470,0 941,381,987,458,1 956,381,972,398,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20138.jpg 697,332,822,442,2 664,331,821,837,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291755.png 414,324,443,356,0 405,326,463,470,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20140.jpg 668,360,690,393,0 651,358,703,530,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20170.jpg 413,475,495,638,3 418,475,453,509,2
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20135.jpg 1143,314,1356,824,3 991,369,1102,534,3 888,376,940,499,1 1019,369,1055,403,2 1211,318,1314,423,2 910,374,931,401,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/aim_map_csgo0084.jpg 669,353,706,402,2 645,345,732,563,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20174.jpg 689,491,784,661,1 185,436,228,526,1 698,490,744,524,0 201,439,227,459,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20154.jpg 1006,345,1026,361,0 1127,340,1142,359,0 990,344,1036,459,1 1114,339,1147,432,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291750.png 581,306,594,321,0 579,305,600,359,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20187.jpg 742,356,850,613,3 758,358,806,411,2
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291919.png 406,291,428,319,0 380,291,434,419,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20169.jpg 933,440,947,454,2 1037,419,1052,431,2 925,439,960,503,3 1021,416,1051,479,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20149.jpg 637,428,710,606,1 656,427,680,462,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291823.png 563,346,574,358,2 551,348,578,408,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291872.png 618,331,664,380,2 409,292,454,344,2 963,449,980,467,2 948,457,962,472,2 380,290,405,317,2 945,449,983,526,3 379,288,471,392,3 592,333,676,499,3 376,293,418,381,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291653.png 488,162,500,175,2 487,162,504,202,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291863.png 590,337,624,372,0 551,344,646,541,1 798,337,823,362,0 775,343,835,471,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291850.png 655,354,672,372,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291753.png 613,359,641,397,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20115.jpg 1355,460,1417,539,1 746,438,776,509,1 750,438,769,453,0 1382,458,1401,480,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601292004.png 570,142,646,225,2 540,122,758,614,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20163.jpg 727,395,770,452,0 706,392,800,735,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291928.png 575,343,597,368,2 558,339,609,462,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20168.jpg 712,294,739,366,3 724,294,737,306,2
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291877.png 371,333,391,366,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291829.png 681,342,705,368,0 646,344,726,470,1 608,358,620,370,2 601,358,624,417,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/aim_map_csgo0087.jpg 796,330,817,358,2 781,329,824,461,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291627.png 35,363,69,394,2 1,362,73,510,3 619,343,639,388,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20190.jpg 709,369,815,541,3 751,371,818,427,2
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291722.png 667,262,684,282,0 659,263,692,357,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291792.png 618,328,651,411,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291970.png 301,251,319,269,0 292,249,323,322,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/aim_map_csgo0074.jpg 695,312,740,356,0 686,308,785,504,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291886.png 600,346,616,363,2 581,347,622,432,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20164.jpg 871,189,978,506,1 907,190,951,251,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291966.png 623,332,649,359,2 612,332,671,468,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291803.png 327,343,383,420,0 667,352,694,381,0 294,340,429,695,1 648,347,718,491,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291794.png 314,320,351,357,0 534,322,566,356,0 283,321,379,525,1 517,324,584,495,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291703.png 564,318,598,355,0 548,315,637,465,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291683.png 279,335,297,358,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20127.jpg 629,381,700,451,0 608,380,744,786,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291688.png 36,357,53,374,2 27,356,64,426,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20109.jpg 738,409,839,650,1 769,408,812,456,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/aim_map_csgo0082.jpg 673,358,710,398,2 588,359,606,381,0 1042,261,1066,281,0 645,361,729,551,3 572,361,626,465,1 1034,260,1077,349,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20203.jpg 869,435,930,615,1 889,434,924,478,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291997.png 603,344,655,492,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601292024.png 580,367,618,406,2 568,380,649,573,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291629.png 757,218,834,306,2 691,203,907,681,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291948.png 592,336,616,368,2 577,341,629,493,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/aim_map_csgo0086.jpg 838,350,907,440,2
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/aim_map_csgo0080.jpg 609,371,663,485,3 622,373,644,392,2 508,334,526,351,0 54,332,70,347,0 49,332,96,394,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20195.jpg 442,288,530,475,1 475,289,514,337,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20130.jpg 590,395,705,664,1 618,389,667,446,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601278104.png 469,335,501,372,0 445,337,524,504,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20186.jpg 792,414,832,464,0 769,416,877,711,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20133.jpg 1038,379,1084,463,3 1059,381,1082,396,2
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20176.jpg 375,431,418,507,1 948,427,983,514,1 392,429,406,443,0 967,428,981,445,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291681.png 646,338,659,358,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291745.png 762,304,775,317,0 757,304,781,357,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291940.png 519,127,757,428,2 320,378,425,490,2 521,145,905,719,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291954.png 500,340,554,387,2 495,333,569,534,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20146.jpg 652,408,716,478,0 612,406,781,830,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291757.png 556,322,576,342,0 550,322,585,392,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20137.jpg 555,247,651,565,1 552,250,607,309,0 220,179,478,900,3 284,181,482,342,2
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291733.png 624,355,647,383,2 687,351,716,389,2
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20161.jpg 933,231,1018,493,1 954,229,991,284,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291741.png 611,347,626,366,0 608,348,640,447,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291910.png 568,352,596,386,0 535,351,599,493,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291857.png 470,349,518,459,1 486,357,507,378,0 638,357,661,391,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20111.jpg 638,489,709,649,1 651,485,685,527,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20185.jpg 845,361,888,500,1 853,362,873,388,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291825.png 641,350,667,407,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/aim_map_csgo0083.jpg 989,350,1062,414,0 943,350,1164,722,1 816,160,861,247,3 826,160,845,180,2
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20144.jpg 673,441,694,471,0 660,443,714,619,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20143.jpg 609,444,665,607,1 624,444,643,471,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20180.jpg 629,459,654,510,1 656,444,677,493,1 634,459,647,472,0 662,444,671,454,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291710.png 617,333,632,364,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20178.jpg 595,456,661,628,1 632,455,663,485,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20113.jpg 345,382,393,462,1 904,345,946,408,1 350,380,371,397,0 913,348,924,363,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20153.jpg 644,352,668,421,1 650,353,662,363,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291736.png 634,367,652,387,0 619,365,664,459,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291812.png 471,163,530,230,0 450,165,573,585,1 767,173,822,247,2 136,241,227,324,2 78,237,153,318,2 738,164,887,579,3 50,243,268,565,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291935.png 594,350,605,363,2 586,350,612,411,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291852.png 619,344,634,361,0 610,346,642,430,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20197.jpg 934,431,968,494,3 676,415,816,860,1 720,425,779,485,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20173.jpg 764,413,813,453,0 41,356,68,378,0 319,357,336,377,0 748,412,870,606,1 23,353,80,459,1 307,357,347,440,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291951.png 651,336,668,356,2 648,334,674,392,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20167.jpg 1040,318,1132,400,2 974,325,1186,675,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20188.jpg 784,399,919,733,3 797,397,857,469,2
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291690.png 119,407,152,439,2 55,405,73,425,2 87,409,149,544,3 49,404,75,462,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20183.jpg 859,397,998,881,1 875,394,939,478,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601278102.png 168,343,218,394,0 350,154,394,200,0 647,361,660,371,0 296,152,412,355,1 138,353,262,572,1 1,361,30,426,1 642,358,669,413,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20116.jpg 846,412,861,425,0 839,412,871,468,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601278115.png 625,427,672,480,0 587,429,707,646,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291663.png 203,491,228,516,0 271,490,293,513,0 264,486,330,593,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291778.png 190,0,804,719,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291787.png 511,342,524,356,0 813,341,829,358,0 506,341,530,401,1 805,340,837,419,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291861.png 665,354,685,374,2 658,356,702,413,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20191.jpg 872,408,896,442,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20122.jpg 571,380,727,735,1 625,384,684,455,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20128.jpg 912,311,1198,795,1 1049,330,1218,465,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291942.png 564,360,576,375,2 624,356,643,406,3 560,361,579,400,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20200.jpg 845,272,926,441,1 864,267,897,306,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291748.png 775,360,786,374,0 772,362,790,398,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/aim_map_csgo0070.jpg 623,328,650,357,2 600,328,656,489,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20157.jpg 811,301,999,815,1 660,332,732,471,1 887,307,964,402,0 681,340,707,367,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291772.png 532,333,581,392,0 485,327,604,626,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291946.png 584,340,599,358,2 579,339,607,395,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291776.png 598,419,620,443,0 589,419,628,526,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601292009.png 625,334,643,357,2 1037,415,1054,432,2 1031,417,1066,480,3 614,333,650,425,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291977.png 626,288,755,425,2
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/aim_map_csgo0071.jpg 665,385,707,428,2 647,382,725,595,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601292022.png 923,231,935,243,2 917,229,940,279,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20179.jpg 620,445,731,770,1 684,447,735,505,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291834.png 513,441,580,518,2 491,435,634,658,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291674.png 634,347,649,364,0 630,350,656,424,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20114.jpg 661,401,674,416,0 1227,401,1248,423,0 1216,402,1256,472,1 656,397,684,474,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291814.png 617,347,648,380,2 592,353,652,518,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291897.png 646,355,658,368,0 644,354,661,398,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291963.png 634,331,657,357,2 618,328,670,453,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20119.jpg 670,390,735,571,1 885,365,923,441,1 674,390,706,425,0 898,363,910,377,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291661.png 132,404,150,425,2 128,403,156,455,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20112.jpg 801,436,862,498,0 775,431,908,765,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291900.png 0,287,105,613,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291923.png 1035,102,1214,240,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291816.png 511,351,521,362,2 504,350,522,389,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291831.png 645,369,677,394,2 624,381,697,628,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291894.png 739,327,754,345,2 722,326,760,414,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291640.png 1007,395,1038,428,0 1004,395,1047,545,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20199.jpg 820,128,880,252,1 835,390,911,595,1 845,386,890,425,0 851,128,878,161,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601292031.png 516,198,544,263,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291925.png 167,248,278,348,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/de_dust20152.jpg 707,392,726,439,1 712,392,721,402,0
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291762.png 753,341,769,358,0 746,340,772,395,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601292000.png 703,438,728,467,2
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291818.png 661,289,723,368,2 622,297,736,633,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291634.png 176,309,201,354,1
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291708.png 634,154,697,245,0 407,255,461,302,0 573,158,715,608,1 792,144,804,158,2 788,145,810,188,3
+/home/pyrokas/Downloads/TensorFlow-2.x-YOLOv3-CSGO/CSGO_images/test/XML_1601291676.png 600,132,675,239,0 551,134,751,681,1
