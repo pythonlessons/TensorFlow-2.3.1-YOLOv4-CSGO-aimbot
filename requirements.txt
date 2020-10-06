@@ -7,4 +7,8 @@ opencv-python==4.1.2.30
 tqdm==4.43.0
 pandas
 awscli
+pyautogui
+mss
 urllib3
+patool
+pyunpack
