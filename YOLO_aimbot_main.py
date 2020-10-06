@@ -2,7 +2,7 @@
 #
 #   File name   : YOLO_aimbot_main.py
 #   Author      : PyLessons
-#   Created date: 2020-09-30
+#   Created date: 2020-10-06
 #   Website     : https://pylessons.com/
 #   GitHub      : https://github.com/pythonlessons/TensorFlow-2.x-YOLOv3
 #   Description : CSGO main yolo aimbot script
@@ -106,7 +106,7 @@ def detect_enemy(Yolo, original_image, input_size=416, CLASSES=YOLO_COCO_CLASSES
 
 def getwindowgeometry():
     while True:
-        output = subprocess.getstatusoutput(f'xdotool search --name Counter-Strike getwindowgeometry')
+        output = subprocess.getstatusoutput(f'xdotool search --name Counter-Strike: getwindowgeometry')
         if output[0] == 0:
             t1 = time.time()
             LIST = output[1].split("\n")
@@ -123,6 +123,7 @@ def getwindowgeometry():
             if outputFocus == Window:
                 return x, y, w, h
             else:
+                subprocess.getstatusoutput(f'xdotool windowfocus {Window}')
                 print("Waiting for window")
                 time.sleep(5)
                 continue
