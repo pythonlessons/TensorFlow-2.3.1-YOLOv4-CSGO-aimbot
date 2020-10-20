@@ -138,6 +138,7 @@ while True:
     t1 = time.time()
     img = np.array(sct.grab({"top": y-30, "left": x, "width": w, "height": h, "mon": -1}))
     img = cv2.cvtColor(img, cv2.COLOR_RGBA2RGB)
+    #img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
     image, detection_list, bboxes = detect_enemy(yolo, np.copy(img), input_size=YOLO_INPUT_SIZE, CLASSES=TRAIN_CLASSES, rectangle_colors=(255,0,0))
     cv2.circle(image,(int(w/2),int(h/2)), 3, (255,255,255), -1) # center of weapon sight
 
